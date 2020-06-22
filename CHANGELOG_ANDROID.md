@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.95](https://github.com/brave/brave-browser/releases/tag/v1.10.95)
+
+- Disabled Twitter support in the rewards panel. ([#10208](https://github.com/brave/brave-browser/issues/10208))
+- Fixed "Enable bottom toolbar" being reverted in certain cases. ([#9843](https://github.com/brave/brave-browser/issues/9843))
+- Fixed ads being displayed under YouTube in certain cases. ([#10241](https://github.com/brave/brave-browser/issues/10241))
+- Fixed crash when opening new tab after disabling "Custom Homepage" theme. ([#10296](https://github.com/brave/brave-browser/issues/10296))
+
 ## [1.10.94](https://github.com/brave/brave-browser/releases/tag/v1.10.94)
 
  - Added Uphold two-way user wallets. ([#8511](https://github.com/brave/brave-browser/issues/8511))
